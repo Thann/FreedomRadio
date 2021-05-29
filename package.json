@@ -55,7 +55,7 @@
     "sqlite": "^3.0.3",
     "style-loader": "^0.19.1",
     "webpack": "^4.38.0",
-    "ws": "^5.2.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
